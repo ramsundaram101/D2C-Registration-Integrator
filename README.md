@@ -1,7 +1,7 @@
 # D2C-Registration-Integrator
 This automatically converts the D2C registration sheet into the format of the ICC Mastersheet
 
-##Intructions##
+## Intructions ##
 
 First, clone this repository
 `git clone https://github.com/ramsundaram101/D2C-Registration-Integrator`
@@ -9,7 +9,7 @@ First, clone this repository
 Then, open Command Prompt and run the following
 `python python [folder path to the cloned repo]/D2C.py --last_team_id=[Last Team ID visible on the Mastersheet] --csv_folder=[folder path to csv registration file]`
 
-###Example###
+### Example ###
 When one is inside the cloned repo
 python masker.py --test_folder=./images/ --output_folder=./output/ --cuda=True
 
